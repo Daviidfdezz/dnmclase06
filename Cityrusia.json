@@ -1,0 +1,102 @@
+[
+ {
+        "id": 452949,
+        "name": "Udomlya",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 34.9925,
+            "lat": 57.87944
+        }
+    },
+    {
+        "id": 453080,
+        "name": "Akademicheskiy",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 34.31638,
+            "lat": 57.711102
+        }
+    },
+    {
+        "id": 461699,
+        "name": "Sasovo",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 41.919861,
+            "lat": 54.353691
+        }
+    },
+    {
+        "id": 461704,
+        "name": "Novozavidovskiy",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 36.433334,
+            "lat": 56.549999
+        }
+    },
+    {
+        "id": 461705,
+        "name": "Krasnolesnyy",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 39.587719,
+            "lat": 51.880718
+        }
+    },
+    {
+        "id": 461715,
+        "name": "Malinovo",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 38.873055,
+            "lat": 55.748333
+        }
+    },
+    {
+        "id": 461720,
+        "name": "Kosterevo",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 39.61438,
+            "lat": 55.929901
+        }
+    },
+    {
+        "id": 461742,
+        "name": "Zyuzino",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 38.123333,
+            "lat": 55.679443
+        }
+    },
+    {
+        "id": 461779,
+        "name": "Zykovo",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 42.383331,
+            "lat": 55.983334
+        }
+    },
+    {
+        "id": 462134,
+        "name": "Zorino",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 44.766666,
+            "lat": 58.333332
+        }
+    }
+    ]
